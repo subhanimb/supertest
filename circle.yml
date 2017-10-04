@@ -6,6 +6,4 @@ deployment:
 
 test:
    override:
-       - supertest
-
-
+       - npm test
